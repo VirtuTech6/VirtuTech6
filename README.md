@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
 <h3 align="center">A web developer</h3>
 
+- 🔭 I’m currently looking for **alternated training**
+
+- 🌱 I’m currently learning **Javascript**
+
+- 👨‍💻 I’m working on **website for a bakery**
+
 - 📫 How to reach me **maximerevaux0612@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maxime revaux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime revaux" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/maxime-revaux-299833254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/maxime-revaux-299833254" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
