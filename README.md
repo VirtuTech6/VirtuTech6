@@ -31,11 +31,15 @@
 
   <img src="https://github.com/user-attachments/assets/376eda3a-ea25-444a-8c07-343abfa795a7" alt="Mockup mobile" width="200">
   <img src="https://github.com/user-attachments/assets/a5df98ba-dba0-468b-b4c8-3a75ed8ea368" alt="Realisation" width="200">
-  <img src="https://github.com/user-attachments/assets/16948694-a610-4bb4-b76c-08499b679851" alt="Old Desktop" width="600">
-  <img src="https://github.com/user-attachments/assets/7a3da35f-16c9-44b8-bc43-b7ba722ae3a1" alt="New Desktop" width="600">
 
 </div>
 
+<div style="display: flex; gap: 10px;">
+  
+  <img src="https://github.com/user-attachments/assets/16948694-a610-4bb4-b76c-08499b679851" alt="Old Desktop" width="600">
+  <img src="https://github.com/user-attachments/assets/7a3da35f-16c9-44b8-bc43-b7ba722ae3a1" alt="New Desktop" width="600">
+  
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/maxime-revaux-299833254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/maxime-revaux-299833254" height="30" width="40" /></a>
