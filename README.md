@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Maxime</h1>
-<h3 align="center">A web developer</h3>
+<h1 align="center">Salut 👋, je suis Maxime  </h1>
+<h3 align="center">Développeur web</h3>
 
-- 🔭 I’m currently looking for **alternated training**
+- 🔭 Je suis actuellement à la recherche d’une formation en alternance  
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 J’apprends actuellement **JavaScript**  
 
-- 👨‍💻 I’m working on **website for a bakery**
+- 👨‍💻 Je travaille sur le site web d’une boulangerie  
 
-- 📫 How to reach me **maximerevaux0612@gmail.com**
+- 📫 Me contacter : maximerevaux0612@gmail.com
+
+---
 
 ### 💼 Expériences professionnelles
 
