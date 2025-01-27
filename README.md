@@ -27,6 +27,18 @@
 
 ---
 
+#### 📍 Stage développeur web – **Étude notariale de Maître Merlin**  
+**Domaine** : Notaire  
+
+**Description du stage** :  
+- Maintenance et correction de bugs sur le site web de l'étude notariale.  
+- Ajout de nouvelles fonctionnalités pour améliorer les services proposés en ligne.  
+
+**Technologies utilisées** :  
+- **Langages** : PHP, HTML, CSS  
+
+---
+
 ### 📸 Galerie de projets  
 
 <div style="display: flex; gap: 10px;">
@@ -42,6 +54,9 @@
   <img src="https://github.com/user-attachments/assets/7a3da35f-16c9-44b8-bc43-b7ba722ae3a1" alt="New Desktop" width="600">
   
 </div>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/maxime-revaux-299833254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/maxime-revaux-299833254" height="30" width="40" /></a>
