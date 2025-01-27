@@ -27,14 +27,14 @@
 
 ### 📸 Galerie de projets  
 
-![Mockup mobile](https://github.com/user-attachments/assets/376eda3a-ea25-444a-8c07-343abfa795a7)
+<div style="display: flex; gap: 10px;">
 
-![Realisation](https://github.com/user-attachments/assets/a5df98ba-dba0-468b-b4c8-3a75ed8ea368)
+  <img src="https://github.com/user-attachments/assets/376eda3a-ea25-444a-8c07-343abfa795a7" alt="Mockup mobile" width="200">
+  <img src="https://github.com/user-attachments/assets/a5df98ba-dba0-468b-b4c8-3a75ed8ea368" alt="Realisation" width="200">
+  <img src="https://github.com/user-attachments/assets/16948694-a610-4bb4-b76c-08499b679851" alt="Old Desktop" width="200">
+  <img src="https://github.com/user-attachments/assets/7a3da35f-16c9-44b8-bc43-b7ba722ae3a1" alt="New Desktop" width="200">
 
-![Old Desktop](https://github.com/user-attachments/assets/16948694-a610-4bb4-b76c-08499b679851)
-
-![New Desktop](https://github.com/user-attachments/assets/7a3da35f-16c9-44b8-bc43-b7ba722ae3a1)
-
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
